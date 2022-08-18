@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import re
-from web_crawler import create_soup_from_url
 
 def get_recommendation_system_stopwords():
     stop_path="recommendation_system_stopwords.txt"
