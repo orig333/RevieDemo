@@ -1,2 +1,2 @@
 # Revie
-Revie is a Hebrew product recommendation system based on NLP of product reviews 
+Revie is a Hebrew NLP product recommendation system based on products reviewes.
